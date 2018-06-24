@@ -5,17 +5,17 @@ QQPASSWORD = "**********"
 # 获取QQ空间说说接口
 WORDS_API = "https://h5.qzone.qq.com/proxy/domain/taotao.qq.com/cgi-bin/emotion_cgi_msglist_v6"
 # 我的QQ空间主页
-MY_MAIN_URL = "https://user.qzone.qq.com/578306307/infocenter"
+MY_MAIN_URL = "https://user.qzone.qq.com/578******/infocenter"
 # QQ空间登陆地址
 LOGIN_URL = "https://xui.ptlogin2.qq.com/cgi-bin/xlogin?proxy_url=https%3A//qzs.qq.com/qzone/v6/portal/proxy.html&daid=5&&hide_title_bar=1&low_login=0&qlogin_auto_login=1&no_verifyimg=1&link_target=blank&appid=549000912&style=22&target=self&s_url=https%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&pt_qr_app=手机QQ空间&pt_qr_link=https%3A//z.qzone.com/download.html&self_regurl=https%3A//qzs.qq.com/qzone/v6/reg/index.html&pt_qr_help_link=https%3A//z.qzone.com/download.html&pt_no_auth=0"
 
 
 # 获取QQ空间说说的参数
 WORDS_REQUESTS_PARAMS = {
-        "uin": "1596861509",
+        "uin": "159******509",
         "inCharset": "utf-8",
         "outCharset": "utf-8",
-        "hostUin": "1596861509",
+        "hostUin": "159******509",
         "notice": "0",
         "sort": "0",
         "pos": "",
